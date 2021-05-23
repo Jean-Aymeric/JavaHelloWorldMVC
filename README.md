@@ -4,6 +4,6 @@
 
 Author : [jeanaymeric@gmail.com](mailto:jeanaymeric@gmail.com")
 
-JavaDoc : [https://jean-aymeric.github.io/JSGraph/](https://jean-aymeric.github.io/JSGraph/)
+JavaDoc : [https://jean-aymeric.github.io/JavaHelloWorldMVC/](https://jean-aymeric.github.io/JavaHelloWorldMVC/)
 
-Visual Paradigm Files : 
+Visual Paradigm Files : https://jean-aymeric.github.io/JavaHelloWorldMVC/HelloWorldMVC.vpp
