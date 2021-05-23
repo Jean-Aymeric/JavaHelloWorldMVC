@@ -26,7 +26,7 @@ id	| Code	| Name
 ------------------------------------------
 ```
 ## Instructions :
-- Download the SQL script : ![SQL Script](https://jean-aymeric.github.io/JavaHelloWorldMVC/vpp/helloworldmvc.sql) or docs/sql/helloworldmvc.sql.
+- Download the SQL script : [helloworldmvc.sql](https://jean-aymeric.github.io/JavaHelloWorldMVC/vpp/helloworldmvc.sql) or docs/sql/helloworldmvc.sql.
 - Execute the SQL script on your MySql or MAriaDB server.
 - Change the user and password in the configuration file com/jad/model/dao/db.properties.
 - Run the Main class.
